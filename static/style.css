@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4; /* Light background color */
+}
+
+h1 {
+  text-align: center;
+  color: #333; /* Dark text color for the header */
+}
+
+.restaurant {
+  display: flex; /* Use flexbox for layout */
+  align-items: center; /* Center items vertically */
+  border: 1px solid #ddd; /* Border around each restaurant */
+  background-color: #fff; /* White background for restaurant cards */
+  border-radius: 5px; /* Rounded corners */
+  padding: 15px; /* Padding inside the card */
+  margin-bottom: 15px; /* Space between restaurant cards */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.restaurant-image {
+  width: 100px; /* Fixed width for images */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 5px; /* Rounded corners for images */
+  margin-right: 15px; /* Space between image and text */
+}
+
+.restaurant-details {
+  flex: 1; /* Allow text details to take available space */
+}
+
+.restaurant-name {
+  font-weight: bold; /* Make the restaurant name bold */
+  font-size: 1.5em; /* Increase the font size */
+  color: #6482ad; /* Color for restaurant names */
+}
+
+p {
+  margin: 5px 0; /* Spacing for paragraphs */
+  font-size: 1em; /* Font size for other text */
+}
+
+/* Styles for cuisine and rating */
+.cuisine,
+.rating {
+  display: block; /* Forces each field to start on a new line */
+}

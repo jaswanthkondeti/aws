@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "The Cheesecake Factory",
+    "address": "123 Main St",
+    "cuisine": "American",
+    "rating": 4.5,
+    "image": "https://th.bing.com/th/id/OIP.6wXO_GR3MnwoqInuVBKcogAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "name": "Olive Garden",
+    "address": "456 Elm St",
+    "cuisine": "Italian",
+    "rating": 4.0,
+    "image": "https://th.bing.com/th/id/OIP.DLSdyNkgyTY-dDWZDTlwQQHaEK?w=1000&h=562&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 3,
+    "name": "Panda Express",
+    "address": "789 Oak St",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "image": "https://th.bing.com/th/id/OIP.vEsQ9_vkCio8aI6-TwCm-gHaDe?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "name": "Chipotle",
+    "address": "135 Maple Ave",
+    "cuisine": "Mexican",
+    "rating": 4.2,
+    "image": "https://th.bing.com/th/id/OIP.pVQieUpBSwoaLNR0-JW-cwHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 5,
+    "name": "Red Lobster",
+    "address": "246 Pine St",
+    "cuisine": "Seafood",
+    "rating": 4.1,
+    "image": "https://1.bp.blogspot.com/-ZAZgpSVx_aA/XbcHydlnsPI/AAAAAAAADq8/NgpH4K6DTVIwgXYtSsTjAa0ZfG59HwhbwCNcBGAsYHQ/s1600/20190106_123927.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Starbucks",
+    "address": "357 Cedar St",
+    "cuisine": "Coffee",
+    "rating": 4.3,
+    "image": "https://th.bing.com/th/id/OIP.RiVw1raQneluM0i2S_0m3QHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 7,
+    "name": "Domino's Pizza",
+    "address": "468 Birch St",
+    "cuisine": "Pizza",
+    "rating": 4.0,
+    "image": "https://th.bing.com/th/id/R.7f9cdd6acfd4f7e7918960b053c70927?rik=lHhq7jMxgI6%2brw&riu=http%3a%2f%2ftechaeris.com%2fwp-content%2fuploads%2f2014%2f06%2fDominos-Pizza-Store.jpg&ehk=AjfSQsqNKkHv3l8VFfkNGdNkZ0uuWKCptCeoQhZTaFU%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 8,
+    "name": "Buffalo Wild Wings",
+    "address": "579 Spruce St",
+    "cuisine": "American",
+    "rating": 4.2,
+    "image": "https://th.bing.com/th/id/OIP.oNQwQqX11Nr48TsLgFz2KQHaDP?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 9,
+    "name": "Panera Bread",
+    "address": "680 Walnut St",
+    "cuisine": "Bakery",
+    "rating": 4.1,
+    "image": "https://www.gannett-cdn.com/presto/2018/07/31/PAPP/7d97c71d-2921-4d26-b7ba-f4b4f09673ba-IMG_2088.jpg?crop=2047,1152,x0,y152&width=3200&height=1680&fit=bounds"
+  },
+  {
+    "id": 10,
+    "name": "Shake Shack",
+    "address": "791 Ash St",
+    "cuisine": "American",
+    "rating": 4.5,
+    "image": "https://www.gannett-cdn.com/-mm-/3f8d58032b605250ee3a8e630a49f19f76ac4f2e/c=0-110-2048-1262/local/-/media/2020/06/30/USATODAY/usatsports/shake-shack-restaurant-exterior-at-night.jpg?width=2048&height=1152&fit=crop&format=pjpg&auto=webp"
+  },
+  {
+    "id": 11,
+    "name": "Noodles & Company",
+    "address": "802 Poplar St",
+    "cuisine": "Noodles",
+    "rating": 4.0,
+    "image": "https://www.gannett-cdn.com/presto/2021/08/26/PNM2/aed171e8-7020-49af-b58a-0060ef1a2413-noodles_and_co.jpeg?width=1320&height=880&fit=crop&format=pjpg&auto=webp"
+  },
+  {
+    "id": 12,
+    "name": "In-N-Out Burger",
+    "address": "913 Cherry St",
+    "cuisine": "Burgers",
+    "rating": 4.8,
+    "image": "https://c8.alamy.com/comp/PBXMRC/in-n-out-burger-fast-food-restaurant-building-exterior-hollywood-los-angeles-la-california-ca-usa-PBXMRC.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Red Robin",
+    "address": "024 Chestnut St",
+    "cuisine": "Burgers",
+    "rating": 4.2,
+    "image": "https://th.bing.com/th/id/OIP.Sw_N0J6PjTdeDxjUWtfNCAAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 14,
+    "name": "Taco Bell",
+    "address": "135 Lemon St",
+    "cuisine": "Mexican",
+    "rating": 4.0,
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2018/05/shutterstock_564358948.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Outback Steakhouse",
+    "address": "246 Fig St",
+    "cuisine": "Steak",
+    "rating": 4.4,
+    "image": "https://th.bing.com/th/id/R.d287b335c65e311308b6bf63383a4c9f?rik=82RwI0kjsBj1hw&riu=http%3a%2f%2fnewyorkchica.com%2fwp-content%2fuploads%2f2015%2f10%2fExterior-NSO-Shot-Edited.jpg&ehk=MuvpToomrqvnLK2Zh6UecuNXk9NvgTjMBQKgK21Zgq8%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 16,
+    "name": "KFC",
+    "address": "579 Elmwood St",
+    "cuisine": "Fast Food",
+    "rating": 4.1,
+    "image": "https://th.bing.com/th/id/R.1d20c6eb8bb27bfd5ce0418370433752?rik=%2bCedQ3%2f8R7j5dw&riu=http%3a%2f%2fwww.blog.sagmart.com%2fwp-content%2fuploads%2f2015%2f05%2fKFC-Zirakpur.jpg&ehk=Q6Cw8t2RQe5Ejt7xo3F8WLEoV9n5%2fysRZtG2wMEHXAo%3d&risl=&pid=ImgRaw&r=0"
+  }
+]
